@@ -1,6 +1,6 @@
 {
-	"name": "silverstripe",
-	"displayName": "SilverStripe",
+	"name": "silverstripe-classic",
+	"displayName": "SilverStripe Classic",
 	"description": "Syntax highlighter for SilverStripe template files (.ss)",
 	"icon": "images/icon.png",
 	"version": "0.0.6",
